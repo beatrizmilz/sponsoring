@@ -298,9 +298,4 @@ class: contact
 
 # Contato 
 
-## Julio Trecenti
-
-### jtrecenti@curso-r.com
-
-### Organizador satRday São Paulo
-
+## satrdaysp@gmail.com
